@@ -64,7 +64,7 @@ function Introduction() {
             </p>
             <ul className="pt-4 mb-4 pl-8 flex gap-8 ">
               <li className="pl-4 pr-4 text-[#700c86] bg-white rounded-2xl  h-10 w-10 text-center transition relative">
-                <a href="" className="text-2xl absolute top-2 right-2">
+                <a href="https://github.com/" className="text-2xl absolute top-2 right-2">
                   <AiFillGithub />
                 </a>
               </li>
