@@ -4,21 +4,20 @@ import { ImPointRight } from "react-icons/im";
 function AboutCard() {
   return (
     <>
-      <blockquote className='text-xl text-white'>
+      <blockquote className='text-xl text-white text-center'>
               <p>
                 Hi Everyone, I am <span className='text-[#c770f0]'>Deependra Rajput</span> from{" "}
                 <span className='text-[#c770f0]'>Gwalior, India.</span>
                 <br />
-                I am currently employed as a software developer at Juspay.
+                My Expertise Lies In HTML CSS & JAVASCRIPT.
                 <br />
-                I have completed Integrated MSc (IMSc) in Maths and Computing at
-                BIT Mesra.
+                And I have Hands On Experience with React And Redux .
                 <br />
                 <br />
                 Apart from coding, some other activities that I love to do!
               </p>
-
-              <ul className='mb-4'>
+              
+              <ul className='mb-4 ml-32'>
                 <li className="flex items-center gap-2 mb-2 mt-4">
                 <ImPointRight />
                   Playing Games

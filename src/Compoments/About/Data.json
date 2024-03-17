@@ -40,11 +40,5 @@
   }, {
     "img_url": "https://www.avinashranjan.com/_next/image?url=https%3A%2F%2Fimg.icons8.com%2Fcolor%2F2x%2Fgit.png&w=128&q=75",
     "name": "Git"
-  },{
-    "img_url": "https://www.avinashranjan.com/_next/image?url=https%3A%2F%2Fimg.icons8.com%2Fmaterial-outlined%2F96%2Fnull%2Fgithub.png&w=128&q=75",
-    "name": "GitHub"
-  },{
-    "img_url": "https://www.avinashranjan.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdacrcdnza%2Fimage%2Fupload%2Fv1681387549%2Fvercel_fmgqw8.png&w=128&q=75",
-    "name": "Vercel"
   }
 ]

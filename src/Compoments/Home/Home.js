@@ -12,8 +12,8 @@ function Home() {
   return (
     <>
       <section id="home-Background">
-        <div className=" w-full p-14">
-          <div className="pt-3  text-left flex  ">
+        <div className=" w-full p-14" id="hero">
+          <div className="pt-1  text-left flex  ">
             <div className="w-[60%]">
               <div className="flex  pl-6 items-center ">
                 <span

@@ -11,22 +11,26 @@ function Contact() {
           <h3 className="text-center text-5xl mb-4 justify-evenly">
             Get In <span className="text-[#cd5ff8]">Touch</span>
           </h3>
-          <div className="flex gap-12">
+          <div className="flex justify-around gap-12">
             <div className="w-[40%]">
-            <TrackVisibility>
-              {({ isVisible }) => (
-                <div
-                  className={
-                    isVisible ? "animate__animated animate__zoomIn" : ""
-                  }
-                >
-                  <img src={newOneContect} alt="Header Img" className="w-full h-full" />
-                </div>
-              )}
-            </TrackVisibility>
+              <TrackVisibility>
+                {({ isVisible }) => (
+                  <div
+                    className={
+                      isVisible ? "animate__animated animate__zoomIn" : ""
+                    }
+                  >
+                    <img
+                      src={newOneContect}
+                      alt="Header Img"
+                      className="w-full h-full"
+                    />
+                  </div>
+                )}
+              </TrackVisibility>
               {/* <img src={newOneContect} alt="" /> */}
             </div>
-            <div className="w-[60%] p-3">
+            <div className="w-[60%] p-3 ml-10">
               <div className="">
                 <input
                   type="text"
@@ -69,9 +73,9 @@ function Contact() {
                   className="py-3 px-5 mr-3 mb-3 rounded-lg  text-white border border-white bg-transparent"
                 ></textarea>
                 <div>
-                <button className="px-4 py-2 bg-white text-black w-32 text-left">
-                  Say Hello 👋
-                </button>
+                  <button className="px-4 py-2 bg-white text-black w-32 text-left">
+                    Say Hello 👋
+                  </button>
                 </div>
               </div>
             </div>

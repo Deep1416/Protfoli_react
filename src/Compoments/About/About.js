@@ -6,11 +6,11 @@ import Skill from "./Skill";
 function About() {
   return (
     <>
-      <div className="w-full text-white p-14">
+      <div className="w-full text-white px-16">
         <div className="flex justify-center">
           <div className="p-4 m-1 w-[60%]">
             <h1 className="text-center mb-4 text-4xl ">
-              Know Who <strong className="text-[#c770f0]">I'M</strong>
+            About  <strong className="text-[#c770f0]">Me</strong>
             </h1>
             <AboutCard/>
           </div>

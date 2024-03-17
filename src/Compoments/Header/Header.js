@@ -3,9 +3,9 @@ import { Link, NavLink } from "react-router-dom";
 function Header() {
   return (
     <>
-      <header className="shadow sticky z-[1001] top-0">
-        <nav className="bg-[#1b1a2ea9!important] border-gray-200 px-4 lg:px-6 py-2.5 ">
-          <div className="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl">
+      <header className="shadow sticky z-[1001] top-0 ">
+        <nav className="bg-[#1b1a2ea9!important] border-gray-200 px-4 lg:px-6 py-2.5  ">
+          <div className="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl w-[85%] m-auto">
             <Link to="/" className="flex items-center">
               <h1 className="text-3xl text-[#cd5ff8]">Deepndra Rajput</h1>
             </Link>

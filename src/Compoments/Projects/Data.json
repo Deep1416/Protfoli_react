@@ -4,21 +4,21 @@
         "image_url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpRnqVqIPRQWxvbPMcBZs39u88s6N3j8hNZg&usqp=CAU",
         "github_link" :"https://github.com/SanjayvVarma/Bharat-Pe?tab=readme-ov-file",
         "Demo_link" :"https://sanjayvvarma.github.io/Bharat-Pe/",
-        "disc":"BharatPe - Empowering Your Financial Journey Welcome to BharatPe, your all-in-one fintech solution designed to revolutionize the way you manage and grow your business. Discover a world of seamless transactions, access to quick business loans, and a digital storefront to elevate your online presence",
+        "disc":"Created Bharatpe webpage using HTML, JavaScript, CSS. Displays services/products, enhances interactivity, and styling. A user-friendly representation of Bharatpe's offerings for effective brand communication.",
         "tech":"Html ,Css , Js libaray"
     },{
         "title":"Emoji-project",
         "image_url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxmWxNhl-OLU3sHQrKGJqkp1JYsks2Na13Sg&usqp=CAU",
         "github_link" :"https://github.com/Deep1416/Emoji-project",
         "Demo_link" :"emoji-project-sable.vercel.app",
-        "disc":"BharatPe - Empowering Your Financial Journey Welcome to BharatPe, your all-in-one fintech solution designed to revolutionize the way you manage and grow your business. Discover a world of seamless transactions, access to quick business loans, and a digital storefront to elevate your online presence",
+        "disc":"You built a web page using HTML, JavaScript, and CSS for emoji search. Users input queries to find emojis, displayed dynamically. JavaScript handles search and page updates. CSS styles the page. Enables efficient emoji searching and use",
         "tech":"Html ,Css ,JavaScript , Api"
     },{
         "title":"Drum kit",
         "image_url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnNH3JHuGU4nKkYKPwme0o3JzACYaGqlXCBg&usqp=CAU",
         "github_link" :"https://github.com/Deep1416/Drum-kit",
         "Demo_link" :"drum-kit-green-beta.vercel.app",
-        "disc":"BharatPe - Empowering Your Financial Journey Welcome to BharatPe, your all-in-one fintech solution designed to revolutionize the way you manage and grow your business. Discover a world of seamless transactions, access to quick business loans, and a digital storefront to elevate your online presence",
+        "disc":"You've crafted a Drum-kit webpage using HTML, JavaScript, and CSS. Users can interact with drum elements to produce sounds. CSS enhances visuals. Overall, it offers an engaging virtual drumming experience.",
         "tech":"Html ,Css ,JavaScript , Api"
     }
 ]

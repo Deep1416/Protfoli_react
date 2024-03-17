@@ -5,7 +5,7 @@ import Data from './Data.json'
 function Projects() {
   return (
     <>
-      <div className="w-full p-14 text-white">
+      <div className="w-full p-10 px-36 text-white">
         <div>
           <h1 className="text-center text-5xl font-medium ">
             My Recent <strong className="text-[#c770f0]">Works </strong>{" "}
