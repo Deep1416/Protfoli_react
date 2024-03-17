@@ -1,5 +1,6 @@
 import React from "react";
 import { Link, NavLink } from "react-router-dom";
+import "../../Style.css"
 function Header() {
   return (
     <>
@@ -19,6 +20,7 @@ function Header() {
                     <NavLink to="/"
                       className={({isActive}) =>
                         `block py-2 pr-4 pl-3 duration-200 ${isActive?"text-purple-500" : "text-white"} border-b border-gray-100  lg:hover:bg-transparent lg:border-0  lg:p-0`
+                        
                       }
                     >
                       Home

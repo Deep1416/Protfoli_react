@@ -27,7 +27,7 @@ function Home() {
               </div>
               <div>
                 <h1 className="pl-11 text-4xl text-white font-medium">
-                  I'M <strong className="text-[#cd5ff8]">Deependra</strong>
+                  I'M <strong className="text-[#cd5ff8]">Deependra Rajput</strong>
                 </h1>
                 <div className="p-12 text-left text-4xl font-semibold">
                   <Skills />
